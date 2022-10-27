@@ -10,3 +10,15 @@
 ### Incluso, podemos introducir imagenes o diagramas para hacer mas legible y accesible nuestra informacion.
 ![This is an image](https://myoctocat.com/assets/images/octocats/octocat-26.png)
 
+Incluso podemos introducir diagramas como este: 
+
+graph TD;
+    ordersDb[(BaseDeDatos)]
+
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+    C-->BaseDeDatos;
+
+
