@@ -12,6 +12,7 @@
 
 Incluso podemos introducir diagramas como este: 
 
+```mermaid
 graph TD;
     ordersDb[(BaseDeDatos)]
 
@@ -20,5 +21,5 @@ graph TD;
     B-->D;
     C-->D;
     C-->BaseDeDatos;
-
+```
 
