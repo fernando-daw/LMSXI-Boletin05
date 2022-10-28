@@ -10,6 +10,18 @@
 ### Incluso, podemos introducir imagenes o diagramas para hacer mas legible y accesible nuestra informacion.
 ![This is an image](https://myoctocat.com/assets/images/octocats/octocat-26.png)
 
+* Deberes que hacer
+
+* Lista de la compra
+  
+  - No comparte su comida
+
+  - Abracin es solo suyo
+
+- [x] Examen de SI
+- [ ] Examen de FOL
+- [x] Examen XML
+
 Incluso podemos introducir diagramas como este: 
 
 ```mermaid
